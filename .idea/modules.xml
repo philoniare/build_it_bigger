@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Build-It-Bigger.iml" filepath="$PROJECT_DIR$/Build-It-Bigger.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build-it-bigger.iml" filepath="$PROJECT_DIR$/build-it-bigger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokerBackend/jokerBackend.iml" filepath="$PROJECT_DIR$/jokerBackend/jokerBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokerSupplier/jokerSupplier.iml" filepath="$PROJECT_DIR$/jokerSupplier/jokerSupplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokerView/jokerview.iml" filepath="$PROJECT_DIR$/jokerView/jokerview.iml" />
     </modules>
   </component>
 </project>

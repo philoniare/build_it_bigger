@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/backend" />
+            <option value="$PROJECT_DIR$/jokerBackend" />
+            <option value="$PROJECT_DIR$/jokerSupplier" />
+            <option value="$PROJECT_DIR$/jokerView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
